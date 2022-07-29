@@ -26,18 +26,18 @@
 - **메인 기능**
   - 검색창을 통한 음식 검색 기능, 영양소&칼로리 계산 기능
     - 음식 검색
-      ![식단 계산.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a8ba3520-7315-4171-862b-1bcc72a9c7ff/%E1%84%89%E1%85%B5%E1%86%A8%E1%84%83%E1%85%A1%E1%86%AB_%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB.gif)
+      ![식단 계산](https://user-images.githubusercontent.com/86966661/181795707-04063cf6-40a3-45e2-ad6e-510e39e9e2ac.gif)
     - 영양소 계산
-      ![칼로리 계산.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3c373b82-21ea-46f4-85f0-1d7280625db5/%E1%84%8F%E1%85%A1%E1%86%AF%E1%84%85%E1%85%A9%E1%84%85%E1%85%B5_%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB.gif)
+      ![칼로리 계산](https://user-images.githubusercontent.com/86966661/181795768-63e97532-99ac-4e30-a363-35626894679b.gif)
   - 로그인 시 나의 식단 저장, 검색, 삭제 기능
-    ![식단 저장, 검색, 삭제.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1ff5a346-00fc-4b53-a0dc-44f94fdc4eb6/%E1%84%89%E1%85%B5%E1%86%A8%E1%84%83%E1%85%A1%E1%86%AB_%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%80%E1%85%A5%E1%86%B7%E1%84%89%E1%85%A2%E1%86%A8_%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.gif)
+    ![식단 저장, 검색, 삭제](https://user-images.githubusercontent.com/86966661/181795747-06e0e3b6-da8c-4c76-b0c9-fe8954d84c73.gif)
   - 사용자 정보 수정, 탈퇴 기능
   - 사용자 상세 정보 입력 시 BMI / RDI 자동 계산 기능
-    ![회원정보 수정, rdi bmi 자동계산.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3922ff4a-14fa-45d1-b338-6604e5708a0e/%E1%84%92%E1%85%AC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9_%E1%84%89%E1%85%AE%E1%84%8C%E1%85%A5%E1%86%BC_rdi_bmi_%E1%84%8C%E1%85%A1%E1%84%83%E1%85%A9%E1%86%BC%E1%84%80%E1%85%A8%E1%84%89%E1%85%A1%E1%86%AB.gif)
+    ![회원정보 수정, rdi bmi 자동계산](https://user-images.githubusercontent.com/86966661/181795793-67e9bce2-8d63-4df1-85a0-c5a1aba0d080.gif)
   - 전문가 자격증 이미지 등록 기능
-    ![자격증 등록.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da29cd1a-5af5-42df-a501-a5732bcb97c4/%E1%84%8C%E1%85%A1%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%B3%E1%86%BC_%E1%84%83%E1%85%B3%E1%86%BC%E1%84%85%E1%85%A9%E1%86%A8.gif)
+    ![자격증 등록](https://user-images.githubusercontent.com/86966661/181795755-cfece2e4-56f4-485b-bba0-86d0a675d261.gif)
   - 전문가 코멘트 추가, 수정, 삭제 기능
-    ![코멘트 추가.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2c9e1310-65e5-47f0-9cf4-a01eda2eaaf5/%E1%84%8F%E1%85%A9%E1%84%86%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B3_%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1.gif)
+    ![코멘트 추가](https://user-images.githubusercontent.com/86966661/181795777-603f610d-0828-4ce1-8c6d-fa97a02c59d0.gif)
 - **서브 기능**
   - OAuth 로그인 기능
   - 코멘트 확인 시 전문가의 자격증 이미지 확인 기능
