@@ -26,21 +26,28 @@
 - **메인 기능**
   - 검색창을 통한 음식 검색 기능, 영양소&칼로리 계산 기능
     - 음식 검색
+      <br>
       ![식단 계산](https://user-images.githubusercontent.com/86966661/181795707-04063cf6-40a3-45e2-ad6e-510e39e9e2ac.gif)
     - 영양소 계산
+      <br>
       ![칼로리 계산](https://user-images.githubusercontent.com/86966661/181795768-63e97532-99ac-4e30-a363-35626894679b.gif)
   - 로그인 시 나의 식단 저장, 검색, 삭제 기능
+    <br>
     ![식단 저장, 검색, 삭제](https://user-images.githubusercontent.com/86966661/181795747-06e0e3b6-da8c-4c76-b0c9-fe8954d84c73.gif)
   - 사용자 정보 수정, 탈퇴 기능
   - 사용자 상세 정보 입력 시 BMI / RDI 자동 계산 기능
+    <br>
     ![회원정보 수정, rdi bmi 자동계산](https://user-images.githubusercontent.com/86966661/181795793-67e9bce2-8d63-4df1-85a0-c5a1aba0d080.gif)
   - 전문가 자격증 이미지 등록 기능
+    <br>
     ![자격증 등록](https://user-images.githubusercontent.com/86966661/181795755-cfece2e4-56f4-485b-bba0-86d0a675d261.gif)
   - 전문가 코멘트 추가, 수정, 삭제 기능
+    <br>
     ![코멘트 추가](https://user-images.githubusercontent.com/86966661/181795777-603f610d-0828-4ce1-8c6d-fa97a02c59d0.gif)
 - **서브 기능**
   - OAuth 로그인 기능
   - 코멘트 확인 시 전문가의 자격증 이미지 확인 기능
+    <br>
     ![코멘트 확인, 전문가정보 확인.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6aa21b35-b777-4a21-829d-646d01e7ecd0/%E1%84%8F%E1%85%A9%E1%84%86%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B3_%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB_%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%80%E1%85%A1%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9_%E1%84%92%E1%85%AA%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB.gif)
 
 <br>
@@ -72,11 +79,14 @@
 ### 8. 기술문서
 
 - 피그마
+  <br>
   [Figma](https://www.figma.com/community/file/1134538465665650962)
 - 시스템 아키텍쳐
-  ![시스템 아키텍쳐.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5836e5b4-5a1c-4c51-b2a9-508e90df8bf4/%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7_%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A7.png)
+  <br>
+  <img width="792" alt="시스템 아키텍쳐" src="https://user-images.githubusercontent.com/86966661/181796824-41dac52e-6433-4d1c-b23e-7daca21edb0c.png">
 - 스타일 가이드
-  ![스타일가이드.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44cd189d-aca6-4ea4-8c34-b076532bd335/%E1%84%89%E1%85%B3%E1%84%90%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%80%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B3.png)
+  <br>
+  ![스타일가이드](https://user-images.githubusercontent.com/86966661/181796811-6c56499f-7c28-47d2-94c3-a1d5594455a1.png)
 
 <br>
 
