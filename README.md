@@ -3,6 +3,29 @@
 #### 식단에 대한 칼로리 및 3대 영양소를 계산해주고,<br> 자신의 식단을 등록해 전문가의 솔루션을 받을 수 있는 서비스입니다.
 
 <br>
+
+### 🥕 프로젝트 자료
+  <br>
+- 시스템 아키텍쳐
+  <br>
+  <img width="792" alt="시스템 아키텍쳐" src="https://user-images.githubusercontent.com/86966661/181796824-41dac52e-6433-4d1c-b23e-7daca21edb0c.png">
+- 스타일 가이드
+  <br>
+  ![스타일가이드](https://user-images.githubusercontent.com/86966661/181796811-6c56499f-7c28-47d2-94c3-a1d5594455a1.png)
+<br>
+
+### 🥕 맡은 역할<br>
+
+#### 백엔드, 팀장
+
+<br>
+
+### 🥕 개인 목표<br>
+
+#### 데이터베이스 커넥션 최소화, 프론트 백 커넥션 최소화
+
+<br>
+
 ### 🥕 프로젝트 구성
 
 - 사용 스택
@@ -18,32 +41,6 @@
     - Google Cloud Platform, Docker
   - 공통
     - eslint(Airbnb), prettier
-
-<br>
-
-### 🥕 프로젝트 자료
-  <br>
-- 시스템 아키텍쳐
-  <br>
-  <img width="792" alt="시스템 아키텍쳐" src="https://user-images.githubusercontent.com/86966661/181796824-41dac52e-6433-4d1c-b23e-7daca21edb0c.png">
-- 스타일 가이드
-  <br>
-  ![스타일가이드](https://user-images.githubusercontent.com/86966661/181796811-6c56499f-7c28-47d2-94c3-a1d5594455a1.png)
-<br>
-
-
-
-
-
-### 🥕 맡은 역할<br>
-
-#### 백엔드, 팀장
-
-<br>
-
-### 🥕 개인 목표<br>
-
-#### 데이터베이스 커넥션 최소화, 프론트 백 커넥션 최소화
 
 <br>
 
