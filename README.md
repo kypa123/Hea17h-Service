@@ -10,8 +10,7 @@
   <br>
   <img width="792" alt="시스템 아키텍쳐" src="https://user-images.githubusercontent.com/86966661/181796824-41dac52e-6433-4d1c-b23e-7daca21edb0c.png">
   
-- 스타일 가이드
-- <br>
+- 스타일 가이드<br>
   ![스타일가이드](https://user-images.githubusercontent.com/86966661/181796811-6c56499f-7c28-47d2-94c3-a1d5594455a1.png)
 <br>
 
